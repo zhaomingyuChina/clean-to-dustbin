@@ -1,4 +1,4 @@
-# Clean to Dustbin Mod
+# Clean to Dustbin Mod-秋风扫落叶
 
 一个用于Minecraft Forge 1.20.1的服务端mod，能够定时清理全世界掉落物并将其保存在可访问的垃圾桶中。
 
